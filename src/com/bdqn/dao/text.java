@@ -6,5 +6,7 @@ package com.bdqn.dao;
 public class text {
     public static void main(String[] args) {
         System.out.println("hello tow 次");
+
+        System.out.println("woshinirong");
     }
 }
